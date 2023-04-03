@@ -8,7 +8,7 @@
 
 <h2 align="center">LeetCode Profile</h2>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Elessarov&theme=dark)](https://github.com/Elessarov1/github-readme)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Elessarov&theme=dark)](https://leetcode.com/Elessarov/)
 
 
 <!--
