@@ -2,7 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Java developer from Russia 🇷🇺</h3>
 
-#GitHub Profile Trophy
+<h2 align="center">GitHub Profile Trophy</h2>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Elessarov1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
