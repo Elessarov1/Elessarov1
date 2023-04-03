@@ -6,6 +6,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Elessarov1)](https://github.com/ryo-ma/github-profile-trophy)
 
+<h2 align="center">LeetCode Profile</h2>
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Elessarov&theme=dark)](https://github.com/Elessarov1/github-readme)
+
+
 <!--
 **Elessarov1/Elessarov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
