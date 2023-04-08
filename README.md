@@ -4,7 +4,7 @@
 
 <h2 align="center">GitHub Profile Trophy</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Elessarov1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Elessarov1)](https://github.com/Elessarov1/github-profile-trophy)
 
 <h2 align="center">LeetCode Profile</h2>
 
