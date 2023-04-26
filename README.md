@@ -2,9 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> Junior Java developer from Russia 🇷🇺</h3>
 
-<h2 align="center">GitHub Profile Trophy</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Elessarov1)](https://github.com/Elessarov1/github-profile-trophy)
 
 <h2 align="center">LeetCode Profile</h2>
 
@@ -15,6 +13,10 @@
 **Elessarov1/Elessarov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<h2 align="center">GitHub Profile Trophy</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Elessarov1)](https://github.com/Elessarov1/github-profile-trophy)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
