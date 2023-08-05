@@ -11,9 +11,10 @@
 *   Docker, Kubernates
 *   JUnit
 
-<h3 align="left">📫 Контакты</h3>
-Почта - <a href='mailto:Alex906206@mail.ru'>Alex906206@mail.ru</a></p>
-Telegram - <a href='https://t.me/Elessarov'>t.me/Elessarov</a></p>
+<h3 align="left"> 📫 Контакты</h3>
+
+*   Почта - <a href='mailto:Alex906206@mail.ru'>Alex906206@mail.ru</a></p>
+*   Telegram - <a href='https://t.me/Elessarov'>t.me/Elessarov</a></p>
 
 <h3 align="left">LeetCode</h3>
 
