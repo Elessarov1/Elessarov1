@@ -11,13 +11,13 @@
 *   Docker, Kubernates
 *   JUnit
 
+<h3 align="left">📫 Контакты</h3>
+Почта - <a href='Alex906206@mail.ru'>Alex906206@mail.ru</a></p>
+Telegram - <a href='https://t.me/Elessarov'>t.me/Elessarov</a></p>
+
 <h3 align="left">LeetCode</h3>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Elessarov&theme=dark)](https://leetcode.com/Elessarov/)
-
-<h3 align="left">Контакты</h3>
-📫 Почта - <a href='Alex906206@mail.ru'>Alex906206@mail.ru</a></p>
-💬 Telegram - <a href='https://t.me/Elessarov'>t.me/Elessarov</a></p>
 
 
 <!--
