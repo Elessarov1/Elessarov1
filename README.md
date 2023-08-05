@@ -1,10 +1,23 @@
 
 
 
+<h2 align="center"> Java разработчик</h2>
+<h3 align="left">🛠 Технический стек</h3>
 
-<h2 align="center">LeetCode Profile</h2>
+*   Java SE, Java EE
+*   PostgreSQL, MongoDB, Flyway
+*   Spring Framework, Spring Boot, Spring Data JPA, Hibernate
+*   Maven, Gradle
+*   Docker, Kubernates
+*   JUnit
+
+<h3 align="left">LeetCode</h3>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Elessarov&theme=dark)](https://leetcode.com/Elessarov/)
+
+<h3 align="left">Контакты</h3>
+📫 Почта - <a href='Alex906206@mail.ru'>Alex906206@mail.ru</a></p>
+💬 Telegram - <a href='https://t.me/Elessarov'>t.me/Elessarov</a></p>
 
 
 <!--
@@ -14,7 +27,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi there, I'm <a href="https://instagram.com/elessarov" target="_blank">Alexandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> Java developer from Russia 🇷🇺</h3>
+
 
 <h2 align="center">GitHub Profile Trophy</h2>
 
