@@ -1,6 +1,9 @@
-### Hello there!
-
-![](/MeagerHardtofindAlbertosaurus-size_restricted.gif)
+<h2 align="center"> Hello there!</h2>
+<div align="center">
+  <a>
+    <img src="MeagerHardtofindAlbertosaurus-size_restricted.gif">
+  </a>
+</div>
 
 
 <h2 align="center"> Java разработчик</h2>
