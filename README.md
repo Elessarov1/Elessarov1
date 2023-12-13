@@ -10,7 +10,7 @@
 <h3 align="left">🛠 Технический стек</h3>
 
 *   Java SE, Java EE
-*   PostgreSQL, MongoDB, Flyway
+*   PostgreSQL, MongoDB, Liquibase
 *   Spring Framework, Spring Boot, Spring Data JPA, Hibernate
 *   Maven, Gradle
 *   Docker, Kubernates
