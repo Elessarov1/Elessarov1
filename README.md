@@ -14,7 +14,7 @@
 *   Spring Framework, Boot, Security, Data, Hibernate
 *   Maven, Gradle
 *   Docker, K8s
-*   JUnit
+*   JUnit, Mockito
 
 <h3 align="left"> 📫 Контакты</h3>
 
