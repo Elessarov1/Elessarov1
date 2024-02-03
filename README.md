@@ -11,9 +11,9 @@
 
 *   Java SE, Java EE
 *   PostgreSQL, MongoDB, Liquibase
-*   Spring Framework, Spring Boot, Spring Data JPA, Hibernate
+*   Spring Framework, Boot, Security, Data, Hibernate
 *   Maven, Gradle
-*   Docker, Kubernates
+*   Docker, K8s
 *   JUnit
 
 <h3 align="left"> 📫 Контакты</h3>
