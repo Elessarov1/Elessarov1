@@ -6,45 +6,17 @@
 </div>
 
 
-<h2 align="center"> Java разработчик</h2>
-<h3 align="left">🛠 Технический стек</h3>
+<h2 align="center"> Java|Go developer</h2>
+<h3 align="left">🛠 My stack</h3>
 
-*   Java SE, Java EE
-*   PostgreSQL, MongoDB, Liquibase
-*   Spring Framework, Boot, Security, Data, Hibernate
+*   Java, Go
+*   PostgreSQL, Clickhouse, Liquibase, Flyway
+*   Spring Framework, Boot, Security, Cloud, Data
 *   Maven, Gradle
-*   Docker, K8s
-*   JUnit, Mockito
+*   Docker, Kafka, Grpc,
+*   JUnit, Mockito, Testify
 
-<h3 align="left"> 📫 Контакты</h3>
+<h3 align="left"> 📫 Contacts</h3>
 
-*   Почта - <a href='mailto:Alex906206@mail.ru'>Alex906206@mail.ru</a></p>
+*   Mail - <a href='mailto:Alex906206@mail.ru'>Alex906206@mail.ru</a></p>
 *   Telegram - <a href='https://t.me/Elessarov'>t.me/Elessarov</a></p>
-
-<h3 align="left">LeetCode</h3>
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Elessarov&theme=dark)](https://leetcode.com/Elessarov/)
-
-
-<!--
-**Elessarov1/Elessarov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<h1 align="center">Hi there, I'm <a href="https://instagram.com/elessarov" target="_blank">Alexandr</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-
-<h2 align="center">GitHub Profile Trophy</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Elessarov1)](https://github.com/Elessarov1/github-profile-trophy)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
